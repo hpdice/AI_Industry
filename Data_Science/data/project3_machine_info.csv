@@ -1,0 +1,13 @@
+﻿설비ID,라인,설비유형,제조사,도입연도
+M01,L3,검사기,K-Tech,2022
+M02,L1,CNC,M-Works,2023
+M03,L3,CNC,M-Works,2022
+M04,L3,포장기,K-Tech,2019
+M05,L3,조립기,AI-Machine,2021
+M06,L3,포장기,M-Works,2024
+M07,L2,조립기,K-Tech,2015
+M08,L3,검사기,K-Tech,2024
+M09,L2,조립기,K-Tech,2022
+M10,L3,조립기,K-Tech,2018
+M11,L2,CNC,K-Tech,2019
+M12,L3,조립기,K-Tech,2019
